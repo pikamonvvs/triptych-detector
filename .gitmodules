@@ -1,0 +1,4 @@
+[submodule "triptych-detector-frame"]
+	path = triptych-detector-frame
+	url = https://github.com/pikamonvvs/triptych-detector-frame.git
+	branch = main
