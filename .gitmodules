@@ -2,3 +2,7 @@
 	path = triptych-detector-frame
 	url = https://github.com/pikamonvvs/triptych-detector-frame.git
 	branch = main
+[submodule "triptych-detector-training"]
+	path = triptych-detector-training
+	url = https://github.com/pikamonvvs/triptych-detector-training.git
+	branch = main
